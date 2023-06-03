@@ -1,0 +1,260 @@
+nav {
+  background-color: #333399;
+  padding: 0 !important;
+}
+
+nav > div > div > ul > li > a {
+  padding: 29px 30px !important;
+}
+
+nav > div > div > ul > li:hover {
+  background-color: white;
+}
+
+nav > div > div > ul > li:hover > a {
+  color: #333399 !important;
+}
+
+nav ul li {
+  padding: 0;
+}
+
+.banner {
+  height: 40vw;
+  background: url(recursos/imagenes/banner.jpg) no-repeat;
+  background-size: cover;
+  margin-bottom: 120px;
+  box-shadow: 0px 10px 20px -10px #a5a5a5a6;
+}
+
+.banner > h1 {
+  color: #333399;
+  margin-right: 10px;
+  font-size: 2.5vw;
+}
+
+section > h2 {
+  color: #333399;
+}
+
+h2 + p {
+  font-size: 1.2rem;
+}
+
+h2 + p > a {
+  text-decoration: none;
+  color: #333399;
+}
+
+footer {
+  height: 100px;
+  background-color: #333399;
+  margin-top: 100px;
+}
+
+footer p {
+  margin: 0;
+}
+
+a + ul > li {
+  list-style: none;
+  position: relative;
+  height: auto;
+  width: auto;
+  padding: 30px 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+@media screen and (max-width: 990px) {
+  a + ul {
+    top: 246px !important;
+    position: static !important;
+    width: 100%;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+  }
+}
+
+li:nth-of-type(2) > a + ul {
+  overflow: hidden;
+  height: 0;
+  position: absolute;
+  background-color: white;
+  text-align: center;
+  -webkit-border-radius: 0 0 10px 10px;
+  border-radius: 0 0 5px 5px;
+  top: 82px;
+  -webkit-transition: height 0.5s;
+  border: none;
+  box-shadow: 0px 10px 20px -10px #a5a5a5a6;
+  padding: 0;
+  transition: height 0.5s;
+}
+
+a + ul > li > a {
+  color: #333399;
+  padding: 30px 30px;
+}
+
+a + ul > li:hover {
+  background-color: #333399;
+}
+
+a + ul > li:hover > a {
+  color: white;
+}
+
+li:nth-of-type(2):hover > a + ul {
+  height: 420px;
+}
+
+li:nth-of-type(3) > a + ul {
+  overflow: hidden;
+  height: 0;
+  position: absolute;
+  background-color: white;
+  text-align: center;
+  -webkit-border-radius: 0 0 10px 10px;
+  border-radius: 0 0 5px 5px;
+  top: 82px;
+  -webkit-transition: height 0.5s;
+  border: none;
+  box-shadow: 0px 10px 20px -10px #a5a5a5a6;
+  padding: 0;
+  transition: height 0.5s;
+}
+
+li:nth-of-type(3):hover > a + ul {
+  height: 168px;
+}
+
+/* productos */
+
+h1 {
+  color: #333399;
+  margin-right: 10px;
+  font-size: 2rem;
+}
+
+#filtro {
+  display: inline-block;
+  box-shadow: 0px 2px 5px 0px #a5a5a5a6;
+  padding: 10px;
+}
+
+#productos {
+  gap: 1.5vw;
+}
+
+#productos div {
+  height: 480px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0px 2px 5px 0px #a5a5a5a6;
+  padding: 0;
+}
+
+#productos > div > img {
+  margin-top: 20px;
+  max-width: 200px;
+  height: 200px;
+}
+
+#productos > div > div > h2 {
+  font-size: 1.5rem;
+  margin: auto 15px;
+}
+
+#productos > div > div > h2 + p {
+  font-size: 1rem;
+}
+
+#productos > div > div > p {
+  margin: auto 15px;
+}
+
+#productos > div > div > a {
+  text-decoration: none;
+  color: white;
+  background-color: #333399;
+  width: 100%;
+  padding: 15px 0;
+}
+
+#productos > div > div > a:hover {
+  color: #333399;
+  background-color: white;
+}
+
+#producto {
+  margin: 100px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px 0px #a5a5a5a6;
+}
+
+#producto > div {
+  padding: 40px;
+  box-shadow: 0px 2px 5px 0px #a5a5a5a6;
+}
+
+#producto > div > a {
+  text-decoration: none;
+  color: white;
+  background-color: #333399;
+  width: 100%;
+  padding: 15px 0;
+  border: #333399 solid 1px;
+  border-radius: 5px;
+}
+
+#producto > div > a:hover {
+  color: #333399;
+  background-color: white;
+}
+
+/* ¿Quien soy? */
+
+#misdatos {
+  padding: 217px 0;
+}
+
+#misdatos > figure > img {
+  border-radius: 5px;
+}
+
+#misdatos > figure {
+  margin: 0;
+}
+
+#form > form {
+  gap: 10px;
+}
+
+#form > form > textarea {
+  resize: none;
+  border: #333399 solid 1px;
+  border-radius: 5px;
+}
+
+#form > form > input {
+  padding: 10px 5px;
+  border: #333399 solid 1px;
+  border-radius: 5px;
+}
+
+#form > form > button {
+  font-size: 1.1rem;
+  color: white;
+  background-color: #333399;
+  border: #333399 solid 1px;
+  border-radius: 5px;
+  padding: 14px 150px;
+}
+
+#form > form > button:hover {
+  color: #333399;
+  background-color: white;
+}

@@ -1,0 +1,323 @@
+[
+    
+    {
+        "id": 1,
+        "nombre": "RX 550 PHANTOM G R RX550 2G 2GB",
+        "descripcion": "Cuenta con 512 núcleos, los cálculos para el procesamiento de gráficos se realizarán de forma simultánea logrando un resultado óptimo del trabajo de la placa. Esto le permitirá ejecutar lecturas dispersas y rápidas de y hacia la GPU.",
+        "precio": 58435,
+        "imagen_small": "recursos/imagenes/amd-rx550.png",
+        "imagen_big": "recursos/imagenes/amd-rx550-big.png",
+        "categoria": "Placas_de_video",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 2,
+        "nombre": "Intel Core I9-12900K BX8071512900K de 16 núcleos y 5.2GHz de frecuencia con gráfica integrada",
+        "descripcion": "En este producto, encontrarás los núcleos, que son los encargados de ejecutar las instrucciones y actividades que le asignás a tu dispositivo. Estos tienen relación directa con dos elementos: los hilos y el modelo. Por lo tanto, a la hora de elegir un procesador, es importante que valores los tres en su conjunto.",
+        "precio": 470160.70,
+        "imagen_small": "recursos/imagenes/i9-12900k.png",
+        "imagen_big": "recursos/imagenes/i9-12900k-big.png",
+        "categoria": "Procesadores",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 3,
+        "nombre": "Disco sólido interno Western Digital WD Green WDS480G2G0A 480GB verde",
+        "descripcion": "Este producto posee una interfaz SATA III que se encarga de transferir datos con la placa madre de tu computadora. Es de gran importancia y con su velocidad de envío de información mejora el rendimiento. Vas a poder cargar todo tipo de archivos en tu PC con rapidez.",
+        "precio": 24732,
+        "imagen_small": "recursos/imagenes/disco-solido-western-480gb.png",
+        "imagen_big": "recursos/imagenes/disco-solido-western-480gb-big.png",
+        "categoria": "Almacenamiento",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 4,
+        "nombre": "AMD Athlon 3000G YD3000C6FHBOX de 2 núcleos y 3.5GHz de frecuencia con gráfica integrada",
+        "descripcion": "En este producto, encontrarás los núcleos, que son los encargados de ejecutar las instrucciones y actividades que le asignás a tu dispositivo. Estos tienen relación directa con dos elementos: los hilos y el modelo. Por lo tanto, a la hora de elegir un procesador, es importante que valores los tres en su conjunto.",
+        "precio": 63886.55,
+        "imagen_small": "recursos/imagenes/amd-3000g.png",
+        "imagen_big": "recursos/imagenes/amd-3000g-big.png",
+        "categoria": "Procesadores",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 5,
+        "nombre": "RX 580 8GB",
+        "descripcion": "Cuenta con 2304 núcleos, los cálculos para el procesamiento de gráficos se realizarán de forma simultánea logrando un resultado óptimo del trabajo de la placa. Esto le permitirá ejecutar lecturas dispersas y rápidas de y hacia la GPU.",
+        "precio": 174999,
+        "imagen_small": "recursos/imagenes/amd-rx580.png",
+        "imagen_big": "recursos/imagenes/amd-rx580-big.png",
+        "categoria": "Placas_de_video",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 6,
+        "nombre": "Fuente de alimentación para PC Redragon RPGS GC-PS002 600W negra 100V/240V",
+        "descripcion": "Con la fuente de alimentación Redragon GC-PS002 podrás asegurar la corriente continua y estable de tu computadora de escritorio y optimizar el funcionamiento de sus componentes.",
+        "precio": 29999,
+        "imagen_small": "recursos/imagenes/fuente-redragon-rpgs-600w.png",
+        "imagen_big": "recursos/imagenes/fuente-redragon-rpgs-600w-big.png",
+        "categoria": "Fuentes_de_alimentación",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 7,
+        "nombre": "Disco sólido interno Kingston SA400S37/960G 960GB",
+        "descripcion": "Considerado un dispositivo de alto rendimiento, la unidad en estado sólido A400 de Kingston está diseñada para las personas más exigentes. Mejora de forma notable la capacidad de respuesta de su sistema, ya que alcanza velocidades de lectura/escritura de hasta 500MB/seg y 450MB/seg. Por ende, es 10 veces más rápido que un disco duro tradicional. Al estar compuesta por una memoria flash es silenciosa y posee pocas probabilidades de tener fallas.",
+        "precio": 26999,
+        "imagen_small": "recursos/imagenes/disco-solido-kingston-960gb.png",
+        "imagen_big": "recursos/imagenes/disco-solido-kingston-960gb-big.png",
+        "categoria": "Almacenamiento",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 8,
+        "nombre": "RTX 2060 SUPER GEFORCE RTX 2060 SUPER VENTUS GP OC OC Edition 8GB",
+        "descripcion": "Cuenta con 2176 núcleos, los cálculos para el procesamiento de gráficos se realizarán de forma simultánea logrando un resultado óptimo del trabajo de la placa. Esto le permitirá ejecutar lecturas dispersas y rápidas de y hacia la GPU.",
+        "precio": 239999.20,
+        "imagen_small": "recursos/imagenes/rtx-2060.png",
+        "imagen_big": "recursos/imagenes/rtx-2060-big.png",
+        "categoria": "Placas_de_video",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 9,
+        "nombre": "RAM Fury Beast DDR4 gamer color negro 8GB 1 Kingston KF432C16BB/8",
+        "descripcion": "Con su tecnología DDR4, mejorará el desempeño de tu equipo, ya que aumentará la fluidez y la velocidad en la transferencia de datos ¡Optimizá al máximo el rendimiento de tu computadora y reducí el consumo energético!",
+        "precio": 15033.60,
+        "imagen_small": "recursos/imagenes/ram-fury-beast-ddr4-8g.png",
+        "imagen_big": "recursos/imagenes/ram-fury-beast-ddr4-8g-big.png",
+        "categoria": "Memorias_Ram",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 10,
+        "nombre": "Intel Core i3-10100 BX8070110100 de 4 núcleos y 4.3GHz de frecuencia con gráfica integrada",
+        "descripcion": "En este producto, encontrarás los núcleos, que son los encargados de ejecutar las instrucciones y actividades que le asignás a tu dispositivo. Estos tienen relación directa con dos elementos: los hilos y el modelo. Por lo tanto, a la hora de elegir un procesador, es importante que valores los tres en su conjunto.",
+        "precio": 86000,
+        "imagen_small": "recursos/imagenes/i3-10100.png",
+        "imagen_big": "recursos/imagenes/i3-10100-big.png",
+        "categoria": "Procesadores",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 11,
+        "nombre": "AMD Ryzen Threadripper 3970X 100-100000011WOF de 32 núcleos y 4.5GHz de frecuencia",
+        "descripcion": "En este producto, encontrarás los núcleos, que son los encargados de ejecutar las instrucciones y actividades que le asignás a tu dispositivo. Estos tienen relación directa con dos elementos: los hilos y el modelo. Por lo tanto, a la hora de elegir un procesador, es importante que valores los tres en su conjunto.",
+        "precio": 1190000,
+        "imagen_small": "recursos/imagenes/amd-threadripper.png",
+        "imagen_big": "recursos/imagenes/amd-threadripper-big.png",
+        "categoria": "Procesadores",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 12,
+        "nombre": "RAM color verde 8GB 1 Crucial CB8GS2666",
+        "descripcion": "Una actualización de memoria es una de las formas más rápidas, fáciles y económicas de mejorar de manera inmediata el rendimiento de tu computadora. Ya sea para un ordenador portátil, de escritorio o una estación de trabajo que funciona lento y relentiza tus actividades, instalar más memoria tomará solo unos minutos y te brindará soluciones inmediatas y duraderas a corto, mediano y largo plazo. Acelerá y extendé la vida útil del sistema y aprovechá la capacidad de respuesta que te da para trabajar de manera simple y confortable. No lo dudes más, la memoria Crucial es una de las formas más accesibles para aumentar de manera fácil la capacidad multitarea de tu computadora.",
+        "precio": 18399,
+        "imagen_small": "recursos/imagenes/ram-crucial-8g.png",
+        "imagen_big": "recursos/imagenes/ram-crucial-8g-big.png",
+        "categoria": "Memorias_Ram",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 13,
+        "nombre": "Disco sólido interno Gigabyte GP-GSTFS31120GNTD 120GB negro",
+        "descripcion": "Este producto posee una interfaz SATA III que se encarga de transferir datos con la placa madre de tu computadora. Es de gran importancia y con su velocidad de envío de información mejora el rendimiento. Vas a poder cargar todo tipo de archivos en tu PC con rapidez.",
+        "precio": 10999,
+        "imagen_small": "recursos/imagenes/disco-solido-gigabyte-120gb.png",
+        "imagen_big": "recursos/imagenes/disco-solido-gigabyte-120gb-big.png",
+        "categoria": "Almacenamiento",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 14,
+        "nombre": "Placa de video Nvidia  GeForce RTX 30 Series RTX 3090 24GB",
+        "descripcion": "Cuenta con 10496 núcleos, por lo que la interfaz de la placa será algo sorprendente. Este tipo de estructura es apropiado para el procesamiento de tecnologías más complejas y modernas caracterizadas por grandes volúmenes de datos.",
+        "precio": 1280000,
+        "imagen_small": "recursos/imagenes/rtx-3090.png",
+        "imagen_big": "recursos/imagenes/rtx-3090-big.png",
+        "categoria": "Placas_de_video",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 15,
+        "nombre": "RAM Fury Beast DDR4 RGB gamer color negro 16GB 1 Kingston KF432C16BBA/16",
+        "descripcion": "Con su tecnología DDR4, mejorará el desempeño de tu equipo, ya que aumentará la fluidez y la velocidad en la transferencia de datos ¡Optimizá al máximo el rendimiento de tu computadora y reducí el consumo energético!",
+        "precio": 30000,
+        "imagen_small": "recursos/imagenes/ram-fury-beast-ddr4-16g.png",
+        "imagen_big": "recursos/imagenes/ram-fury-beast-ddr4-16g-big.png",
+        "categoria": "Memorias_Ram",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 16,
+        "nombre": "Fuente de alimentación para PC LNZ SX Series SX500-FC 500W negra 115V/230V",
+        "descripcion": "Con la fuente de alimentación LNZ SX500-FC podrás asegurar la corriente continua y estable de tu computadora de escritorio y optimizar el funcionamiento de sus componentes.",
+        "precio": 11499,
+        "imagen_small": "recursos/imagenes/fuente-lnz-sx-500w.png",
+        "imagen_big": "recursos/imagenes/fuente-lnz-sx-500w-big.png",
+        "categoria": "Fuentes_de_alimentación",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 17,
+        "nombre": "Intel Core i7-10700KF BX8070110700KF de 8 núcleos y 5.1GHz de frecuencia",
+        "descripcion": "En este producto, encontrarás los núcleos, que son los encargados de ejecutar las instrucciones y actividades que le asignás a tu dispositivo. Estos tienen relación directa con dos elementos: los hilos y el modelo. Por lo tanto, a la hora de elegir un procesador, es importante que valores los tres en su conjunto.",
+        "precio": 224094,
+        "imagen_small": "recursos/imagenes/i7-10700kf.png",
+        "imagen_big": "recursos/imagenes/i7-10700kf-big.png",
+        "categoria": "Procesadores",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 18,
+        "nombre": "GT 1030 GV-N1030D5-2GL 2GB",
+        "descripcion": "Cuenta con 384 núcleos, los cálculos para el procesamiento de gráficos se realizarán de forma simultánea logrando un resultado óptimo del trabajo de la placa. Esto le permitirá ejecutar lecturas dispersas y rápidas de y hacia la GPU.",
+        "precio": 78999,
+        "imagen_small": "recursos/imagenes/gt-1030.png",
+        "imagen_big": "recursos/imagenes/gt-1030-big.png",
+        "categoria": "Placas_de_video",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 19,
+        "nombre": "Fuente De Alimentación Para Pc Redragon Gc Series Gc-ps011 800w Black 100v/240v 80 Plus Bronze Modular",
+        "descripcion": "Sus cables desmontables y flexibles permiten optimizar espacio utilizando sólo los necesarios. Si eres de los que prefieren prolijidad por fuera y también por dentro, esta fuente te encantará.",
+        "precio": 39990,
+        "imagen_small": "recursos/imagenes/fuente-redragon-800w-80plus.png",
+        "imagen_big": "recursos/imagenes/fuente-redragon-800w-80plus-big.png",
+        "categoria": "Fuentes_de_alimentación",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 20,
+        "nombre": "Disco Solido Ssd 1tb M.2 Kingston Snv2s/1000g Nvme Pcie 4.0",
+        "descripcion": "Líder en el mercado de tecnologías, Kingston ofrece una gran variedad de dispositivos de almacenamiento. Su calidad y especialización en discos de estado sólido (SSD), de memoria y de USB cifrados la convierten una de las opciones más elegidas en el mercado internacional.",
+        "precio": 34375,
+        "imagen_small": "recursos/imagenes/disco-solido-kingston-1tb.png",
+        "imagen_big": "recursos/imagenes/disco-solido-kingston-1tb-big.png",
+        "categoria": "Almacenamiento",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 21,
+        "nombre": "GTX 1660 SUPER TUF-GTX1660S-O6G-GAMING OC Edition 6GB",
+        "descripcion": "Cuenta con 1408 núcleos, los cálculos para el procesamiento de gráficos se realizarán de forma simultánea logrando un resultado óptimo del trabajo de la placa. Esto le permitirá ejecutar lecturas dispersas y rápidas de y hacia la GPU.",
+        "precio": 219999,
+        "imagen_small": "recursos/imagenes/gtx-1660.png",
+        "imagen_big": "recursos/imagenes/gtx-1660-big.png",
+        "categoria": "Placas_de_video",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 22,
+        "nombre": "Mouse Gamer Retroiluminado Netmak Shock Luces Rgb 1,5m",
+        "descripcion": "Mouse Gamer Retroiluminado » Luces RGB. » Va cambiando de colores: Rojo / Verde / Turquesa / Azul / Verde Fluor / Violeta » Material antideslizante y antisudor. » Usb de alta velocidad. » Diseño ergonómico y ultra gamer. » Plug & Play. » Teclas: 3 » Interfaz: USB » Longitud del cable: 1.5M » Material: ABS » Resolución: 1200 dpi",
+        "precio": 1399,
+        "imagen_small": "recursos/imagenes/mouse-netmak.png",
+        "imagen_big": "recursos/imagenes/mouse-netmak-big.png",
+        "categoria": "Mouse",
+        "sub_categoria": "periferico"
+    },
+    {
+        "id": 23,
+        "nombre": "RAM Fury Beast DDR4 RGB color negro 8GB 1 Kingston KF432C16BBA/8",
+        "descripcion": "Con su tecnología DDR4, mejorará el desempeño de tu equipo, ya que aumentará la fluidez y la velocidad en la transferencia de datos ¡Optimizá al máximo el rendimiento de tu computadora y reducí el consumo energético!",
+        "precio": 16669.80,
+        "imagen_small": "recursos/imagenes/ram-fury-beast-ddr4-8g-red.png",
+        "imagen_big": "recursos/imagenes/ram-fury-beast-ddr4-8g-red-big.png",
+        "categoria": "Memorias_Ram",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 24,
+        "nombre": "GT 1030 GT1030-2G-CSM 2GB",
+        "descripcion": "Cuenta con 384 núcleos, los cálculos para el procesamiento de gráficos se realizarán de forma simultánea logrando un resultado óptimo del trabajo de la placa. Esto le permitirá ejecutar lecturas dispersas y rápidas de y hacia la GPU.",
+        "precio": 45676,
+        "imagen_small": "recursos/imagenes/gt-1030-2g.png",
+        "imagen_big": "recursos/imagenes/gt-1030-2g-big.png",
+        "categoria": "Placas_de_video",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 25,
+        "nombre": "Teclado Mecanico Gamer Xk1000 Led Switch Kailh Blue Keycap",
+        "descripcion": "Este teclado Soul de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto y hacer que tus jugadas alcancen otro nivel.",
+        "precio": 11499,
+        "imagen_small": "recursos/imagenes/teclado-mecanico-kailh.png",
+        "imagen_big": "recursos/imagenes/teclado-mecanico-kailh-big.png",
+        "categoria": "Teclados",
+        "sub_categoria": "periferico"
+    },
+    {
+        "id": 26,
+        "nombre": "Mouse gamer recargable K-Snake BM600 black",
+        "descripcion": "Para trabajar desde casa con la computadora o aprovechar los momentos de ocio, necesitás comodidad y facilidad de movimiento. Con tu K-Snake BM600 encontrá eso que buscás en un solo aparato con la mejor tecnología.",
+        "precio": 5490,
+        "imagen_small": "recursos/imagenes/mouse-k-snake.png",
+        "imagen_big": "recursos/imagenes/mouse-k-snake-big.png",
+        "categoria": "Mouse",
+        "sub_categoria": "periferico"
+    },
+    {
+        "id": 27,
+        "nombre": "Teclado gamer T-Dagger Bora T-TGK315 QWERTY T-Dagger Red español color negro con luz RGB",
+        "descripcion": "Este teclado T-Dagger de alto rendimiento permite que puedas disfrutar de horas ilimitadas de juegos. Está diseñado especialmente para que puedas expresar tanto tus habilidades como tu estilo. Podrás mejorar tu experiencia de gaming, ya seas un aficionado o todo un experto y hacer que tus jugadas alcancen otro nivel.",
+        "precio": 13499,
+        "imagen_small": "recursos/imagenes/teclado-t-dagger.png",
+        "imagen_big": "recursos/imagenes/teclado-t-dagger-big.png",
+        "categoria": "Teclados",
+        "sub_categoria": "periferico"
+    },
+    {
+        "id": 28,
+        "nombre": "Rtx 2060 Super Colorful Battle Ax 8gb",
+        "descripcion": "Chip Series GeForce® RTX 2060 SUPER Product Series Colorful Series GPU Code Name TU106 Manufacturing Process 12nm CUDA Cores 2176 Core Clock Base:1470Mhz; Boost:1650Mhz One-Key OC / Memory Speed Grade 14Gbps Memory Size 8GB Memory Bus Width 256bit Memory Type GDDR6 Memory Bandwidth 448 GB/S Power Connector 8pin Power Supply 6+2 TDP 175W Display Ports DP+HDMI+DVI Fans Type FAN Heat Pipe Number/Spec 2*8 Auto Stop Technology N Power Suggest 550W DirectX 12.1/4.5 NV technology Support Real-Time Ray Tracing, Ansel, GPU Boost Slot Number over 2 slot Product Size 222*126*42mm Product Weight 0.9KG(N.W) Accessories Warranty Card,Manual Specifications Dual Fans compact size New Appearance Design",
+        "precio": 190999,
+        "imagen_small": "recursos/imagenes/rtx-2060-super.png",
+        "imagen_big": "recursos/imagenes/rtx-2060-super-big.png",
+        "categoria": "Placas_de_video",
+        "sub_categoria": "componente"
+    },
+    {
+        "id": 29,
+        "nombre": "Teclado Gamer Gadnic Zt1000 Mecanico Rgb Outemu Blue",
+        "descripcion": "Teclado mecánico para videojuegos, 88 teclas, compacto, portátil, con interruptores Outemu blue. Diseñado para una mayor durabilidad y capacidad de respuesta. Los interruptores son de la más alta calidad, probados para 50 millones de pulsaciones Teclado mecánico USB retroiluminado con LED arcoíris: 5 modos de juego diferentes, 5 modos de juego definidos por el usuario, 6 colores, soporta 14 impresionantes efectos de iluminación LED, el teclado iluminado tiene teclas moldeadas por inyección de doble disparo, proporciona retroiluminación transparente y de letras. Perfecto para uso doméstico o de oficina. Diseño ergonómico compacto y de alta calidad, duradero, de aleación de aluminio ABS con teclas mecánicas montadas en placa e interruptores, diseño de teclado mecánico de 88 teclas que ahorra espacio libera el espacio de trabajo en tu escritorio sin sacrificar el rendimiento y la comodidad en sesiones de juego No importa cuántos botones se presionan, todos responden o disparan al mismo tiempo, todas las 88 teclas tienen interruptores individuales con 'Full n-key' y 'anti-ghosting' para un rendimiento impecable, la combinación de 12 funciones de acceso directo multimedia. Fuerte compatibilidad: funciona perfectamente para Win2000/XP/Vista/Win7/Win8/Win10/ etc.",
+        "precio": 7999,
+        "imagen_small": "recursos/imagenes/teclado-gadnic.png",
+        "imagen_big": "recursos/imagenes/teclado-gadnic-big.png",
+        "categoria": "Teclados",
+        "sub_categoria": "periferico"
+    },
+    {
+        "id": 30,
+        "nombre": "Teclado gamer Redragon Shiva K512 RGB QWERTY español latinoamérica color negro con luz RGB",
+        "descripcion": "Disfrutá de tus partidas en otro nivel con Redragon, marca reconocida que se especializa en brindar la mejor experiencia de juego al público gamer desde hace más de 20 años. Sus teclados se adaptan a todo tipo de jugadores y esto los convierten en un fiel reflejo de la alta gama y calidad que la compañía ofrece.",
+        "precio": 15999,
+        "imagen_small": "recursos/imagenes/teclado-redragon-shiva.png",
+        "imagen_big": "recursos/imagenes/teclado-redragon-shiva-big.png",
+        "categoria": "Teclados",
+        "sub_categoria": "periferico"
+    },
+    {
+        "id": 31,
+        "nombre": "Mouse gamer Genius Scorpion M8-610 black y orange",
+        "descripcion": "Desde hace más de 30 años, Genius está enfocado en la calidad, comodidad y facilidad de uso de sus productos. Su principal objetivo es proporcionarle a las personas una mejor experiencia de usuario. Además, busca incorporar diseños ecológicos que respeten el medio ambiente. El mouse Genius se caracteriza por suaves curvas que resultan cómodas para cualquier mano. Gracias a su resolución, conseguirás movimientos precisos en una amplia gama de superficies.",
+        "precio": 2958,
+        "imagen_small": "recursos/imagenes/mouse-genius-scorpion.png",
+        "imagen_big": "recursos/imagenes/mouse-genius-scorpion-big.png",
+        "categoria": "Mouse",
+        "sub_categoria": "periferico"
+    },
+    {
+        "id": 32,
+        "nombre": "Amd Ryzen 3 4100 100-100000510box 4 Núcleos",
+        "descripcion": "Placa de video AMD PowerColor Red Devil Radeon RX 6700 Series RX 6700 XT AXRX 6700XT 12GBD6-3DHE/OC 12GBLa serie 4000 de Ryzen llegó para romper todos los esquemas. Esta vez con su Ryzen 3 4100, que te da una potencia bruta increíble, acompañado con un precio realmente competitivo. Vas a poder emparejarlo con cualquier GPU dedicada y su gran potencial de trabajo va a sacar todo su rendimiento.",
+        "precio": 239999.20,
+        "imagen_small": "recursos/imagenes/amd-ryzen3-4100.png",
+        "imagen_big": "recursos/imagenes/amd-ryzen3-4100-big.png",
+        "categoria": "Procesadores",
+        "sub_categoria": "componente"
+    }
+]
