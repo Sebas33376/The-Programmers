@@ -8,7 +8,7 @@ nav > div > div > ul > li > a {
 }
 
 nav > div > div > ul > li:hover {
-  background-color: white;
+  background-color: whitesmoke;
 }
 
 nav > div > div > ul > li:hover > a {
